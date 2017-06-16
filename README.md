@@ -1,5 +1,5 @@
 
-## Ionic32AccordionList
+## Ionic 3 AccordionList
 
 Source from didinj https://github.com/didinj/Ionic2AccordionList#ionic2accordionlist
 
